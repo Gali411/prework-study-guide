@@ -7,7 +7,7 @@ Provide a short description explaining the what, why, and how of your project. U
 - Provide easy access to information learned I learned in the Prework.
 - To learn how to use the code I learned to effectively create a project.
 - It helps me find information I learned without having to looking through the study guide to find it. 
-- What did you learn? i learned how to use code to build a simple webiste.
+- I learned how to use code to build a simple webiste.
 
 ## Installation
 
